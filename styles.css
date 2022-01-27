@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+.quote {
+    margin: 10px;
+}
+
+.margin-spacing {
+    margin: 10px;
+}
